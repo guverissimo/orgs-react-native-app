@@ -1,4 +1,7 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+![image](https://github.com/guverissimo/orgs-react-native-app/assets/126837328/648bd3de-d6ac-4b4d-b6e2-8c9fd6141414)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+![image](https://github.com/guverissimo/orgs-react-native-app/assets/126837328/add9ba01-bd00-4be5-977d-9373b0168cac)
+
 
 # Getting Started
 
