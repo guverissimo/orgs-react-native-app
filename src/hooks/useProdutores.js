@@ -1,4 +1,5 @@
-import {useEffect, useState} from 'react';
+import {useState, useEffect} from 'react';
+
 import {carregaProdutores} from '../servicos/carregaDados';
 
 export default function useProdutores() {
@@ -6,7 +7,7 @@ export default function useProdutores() {
   const [lista, setLista] = useState([]);
 
   useEffect(() => {
-    const retorno = carregaProdutores();
+    const retorno = carregaProdutores('distancia');
     setTitulo(retorno.titulo);
     setLista(retorno.lista);
   }, []);
